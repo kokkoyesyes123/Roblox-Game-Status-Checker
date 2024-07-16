@@ -20,7 +20,8 @@ https://www.python.org/downloads/
 - Download the file: Source code (zip).
 
 ## How to use:
-- Run the exe
+- Run the python file (gamechecker)
 - Enter your game id
 - Enter a time interval **(in seconds)**
+- Enter your discord webhook (OPTIONAL)
 - Look at the status message.
