@@ -14,6 +14,11 @@ This Python script allows you to check the status of a specific Roblox game. It 
 - Make sure Python is installed on your computer. If not, download it from the official Python website.
 https://www.python.org/downloads/
 
+### Downloading the exe:
+- Go to the release page.
+- Go to the latest release.
+- Download the file: Source code (zip).
+
 ## How to use:
 - Run the exe
 - Enter your game id
