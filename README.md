@@ -24,4 +24,5 @@ https://www.python.org/downloads/
 - Enter your game id
 - Enter a time interval **(in seconds)**
 - Enter your discord webhook (OPTIONAL)
+- Enter your discord role to ping if its down or has an error (OPTIONAL)
 - Look at the status message.
