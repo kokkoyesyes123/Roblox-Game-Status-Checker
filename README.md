@@ -17,7 +17,7 @@ https://www.python.org/downloads/
 ### Downloading the exe:
 - Go to the release page.
 - Go to the latest release.
-- Download the file: Source code (zip).
+- Download the gamechecker file.
 
 ## How to use:
 - Run the python file (gamechecker)
