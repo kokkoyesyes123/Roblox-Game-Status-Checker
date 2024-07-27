@@ -29,6 +29,9 @@ add python.exe to path is checked.
 - Go to the release page.
 - Go to the latest release.
 - Download the gamechecker file.
+- Open cmd in your directory.
+Type:
+``pip install requests``
 
 ## How to use:
 - Run the python file (gamechecker)
