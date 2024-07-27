@@ -1,7 +1,7 @@
 # Roblox Game Status Checker
 
 [![Discord](https://img.shields.io/discord/1238572493925646347?label=discord&logo=discord&logoColor=white&color=blue)](https://discord.gg/sk9r5Fm65H)
-[![Downloads](https://img.shields.io/github/downloads/kokkoyesyes123/Roblox-Game-Status-Checker/total?color=green)](https://github.com/kokkoyesyes123/Roblox-Game-Status-Checker/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/kokkoyesyes123/Roblox-Game-Status-Checker/total?color=brightgreen)](https://github.com/kokkoyesyes123/Roblox-Game-Status-Checker/releases/latest)
 [![Lastest](https://img.shields.io/github/v/release/kokkoyesyes123/Roblox-Game-Status-Checker?color=green)](https://github.com/kokkoyesyes123/Roblox-Game-Status-Checker/releases/latest)
 
 This Python script allows you to check the status of a specific Roblox game. It checks the game’s webpage with the timme interval you put and prints out a Status Message listed below.
