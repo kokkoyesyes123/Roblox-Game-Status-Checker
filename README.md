@@ -1,6 +1,9 @@
 # Roblox Game Status Checker
 This Python script allows you to check the status of a specific Roblox game. It checks the game’s webpage with the timme interval you put and prints out a Status Message listed below.
 
+Join my discord server :))
+https://discord.gg/sk9r5Fm65H
+
 # DISCLAIMER!
 THIS IS FULLY OPENSOURCED! 
 FEEL FREE TO CHECK THE SOURCE CODE IF YOU THINK IT IS A RAT!
