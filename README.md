@@ -20,6 +20,10 @@ The messages are fully customizable I wont be adding a guide to this though it i
 ### Install Python:
 - Make sure Python is installed on your computer. If not, download it from the official Python website.
 https://www.python.org/downloads/
+- When installing make sure:
+add python.exe to path is checked.
+![image](https://github.com/user-attachments/assets/d0d6b810-5750-4f93-8bbe-299836385964)
+
 
 ### Downloading the exe:
 - Go to the release page.
