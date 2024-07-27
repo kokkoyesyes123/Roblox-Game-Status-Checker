@@ -27,11 +27,9 @@ https://www.python.org/downloads/
 - Download the gamechecker file.
 - Open cmd in your directory.
 Type:
-````
 ```
 pip install requests
 ```
-````
 
 ## How to use:
 - Run the python file (gamechecker)
