@@ -1,12 +1,12 @@
 # Roblox Game Status Checker
 This Python script allows you to check the status of a specific Roblox game. It checks the game’s webpage with the timme interval you put and prints out a Status Message listed below.
 
+# DISCLAIMER!
+THIS IS FULLY OPENSOURCED! 
+FEEL FREE TO CHECK THE SOURCE CODE IF YOU THINK IT IS A RAT!
+
 ## Status Messages
-- 🚫 Game has been deleted.
-- 🔍 Game is under review.
-- ✅ Game is still up.
-- ❌ Game has been deleted or is unavailable.
-- ❗ Unexpected status code (if an unexpected response is received).
+The messages are fully customizable I wont be adding a guide to this though it is simple to do it. If you need help join our discord server.
 
 ## How to install:
 
@@ -21,6 +21,7 @@ https://www.python.org/downloads/
 
 ## How to use:
 - Run the python file (gamechecker)
+- Enter your cookie
 - Enter your game id
 - Enter a time interval **(in seconds)**
 - Enter your discord webhook (OPTIONAL)
