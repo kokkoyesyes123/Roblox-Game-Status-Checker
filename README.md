@@ -1,5 +1,5 @@
 # Roblox Game Status Checker
-[![Discord](https://img.shields.io/discord/1266764255743447121?label=discord&logo=discord&logoColor=white&color=blue)](https://discord.gg/sk9r5Fm65H)
+[![Discord](https://img.shields.io/discord/1266764255743447121?label=Discord&logo=discord)](https://discord.gg/sk9r5Fm65H)
 [![Downloads](https://img.shields.io/github/downloads/kokkoyesyes123/Roblox-Game-Status-Checker/total?color=brightgreen)](https://github.com/kokkoyesyes123/Roblox-Game-Status-Checker/releases/latest)
 [![Lastest](https://img.shields.io/github/v/release/kokkoyesyes123/Roblox-Game-Status-Checker?color=orange)](https://github.com/kokkoyesyes123/Roblox-Game-Status-Checker/releases/latest)
 
